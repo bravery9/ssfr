@@ -5,9 +5,9 @@ This is ssf tool command simplified version.
 
 Features include：
 
->(1)socks5 into the lan;
+(1) socks5 into the lan;
 
->(2)Port forward.
+(2) Port forward.
 
 ## Usage
 ```
